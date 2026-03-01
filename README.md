@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Best Practices For GitHub Actions Secrets](https://forem.com/n3wt0n/security-best-practices-for-github-actions-secrets-jka)
-- [GitHub: Composite Actions vs Reusable Workflows [Updated 2023]](https://forem.com/n3wt0n/github-composite-actions-vs-reusable-workflows-updated-2023-bl8)
-- [Azure Boards? Here&#39;s WHY!](https://forem.com/n3wt0n/azure-boards-heres-why-ik0)
-- [GitHub Larger Runners EXPLAINED! - No more limits](https://forem.com/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
-- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://forem.com/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
+- [Security Best Practices For GitHub Actions Secrets](https://dev.to/n3wt0n/security-best-practices-for-github-actions-secrets-jka)
+- [GitHub: Composite Actions vs Reusable Workflows [Updated 2023]](https://dev.to/n3wt0n/github-composite-actions-vs-reusable-workflows-updated-2023-bl8)
+- [Azure Boards? Here&#39;s WHY!](https://dev.to/n3wt0n/azure-boards-heres-why-ik0)
+- [GitHub Larger Runners EXPLAINED! - No more limits](https://dev.to/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
+- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://dev.to/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
